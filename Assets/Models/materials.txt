@@ -1,0 +1,15 @@
+Player_Body:Dark,Body,Accent,Visor
+Player_Leg:Dark,Accent
+Player_Arm:Body,Dark
+Spikebot:Hull,Spike,Eye,Dark
+Turret:Base,Barrel,Accent
+Projectile:Glow
+Pillar:Dark,Stone
+Crate:Wood,Band
+SpikeTrap:Dark,Spike
+Spinner:Dark,Warn,Spike
+Goal:Dark,GoalGlow
+Tree:Bark,Leaf
+Rock:Stone
+Crystal:Crystal
+Cactus:Cactus
